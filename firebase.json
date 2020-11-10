@@ -15,8 +15,8 @@
         "destination": "/index.html"
       }
     ]
-  },
-  "remoteconfig": {
-    "template": "remoteconfig.template.json"
+    // },
+    // "remoteconfig": {
+    //   "template": "remoteconfig.template.json"
   }
 }
